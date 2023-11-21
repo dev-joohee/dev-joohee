@@ -12,7 +12,7 @@ You finally found my github! You won't be able to get out of my bit anymore!
 </div>
 <br/>
 <div align="center">
-  :email:&nbsp;lofilove@naver.com&nbsp;:email
+  :email:&nbsp;lofilove@naver.com&nbsp;:email:
 </div>
 <br/>
 <div align="center">
@@ -21,7 +21,15 @@ You finally found my github! You won't be able to get out of my bit anymore!
 <img src="http://img.shields.io/badge/SparkAR-F5C83?style=for-the-badge&logo=SparkAR&logoColor=black">
 </div>
 <br/>
-
+<div align="center">
+  
 ![dev-joohee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-joohee&show_icons=true&theme=nord)
 
+</div>
+
+<div align="center">
+  
+![코딩이&nbsp;별거가](https://i.pinimg.com/564x/94/27/f9/9427f9c986339f22d01c9cbe92584b9b.jpg)
+
+</div>
 
