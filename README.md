@@ -1,11 +1,11 @@
 <div align ="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=A0BAED&text=Howdy~&nbsp;J!&nbsp;Drop&nbsp;the&nbsp;bit!&fontColor=ffffff&fontSize=50&animation=fadeIn&AlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A0BAED&text=Howdy~&nbsp;J!&nbsp;Drop&nbsp;the&nbsp;Bit!&fontColor=ffffff&fontSize=50&animation=fadeIn&AlignY=55)
 
 </div>
 
 <div align="center">
-You finally found my github! You won't be able to get out of my bit anymore!
+You finally found my github! You won't be able to get out of my Bit anymore!
 </div>
 
 <hr/>
