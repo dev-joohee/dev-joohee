@@ -5,7 +5,10 @@
 </div>
 
 <div align="center">
-You finally found my github! You won't be able to get out of my Bit anymore!
+You finally found my github! You won't be able to get out of my Bit anymore!<br/>
+  Let's enjoy the bit, not the beat<br/><br/>
+  1010111001000000 1100100011111100 1101011101101100
+  
 </div>
 
 <hr/>
