@@ -10,7 +10,7 @@ You finally found my github! You won't be able to get out of my bit anymore!
 
 <hr/>
 <div align="center">
-:cool:&nbsp;Lv.23 CSE <br/>
+Lv.23 CSE&nbsp;:three: <br/>
 :on:&nbsp;leave of absence
 </div>
 <br/>
