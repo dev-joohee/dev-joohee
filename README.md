@@ -5,20 +5,17 @@
 </div>
 
 <div align="center">
-You finally found my github! You won't be able to get out of my Bit anymore!<br/>
-  Let's enjoy the bit, not the beat<br/><br/>
+You finally found my github!<br/>
+
   
 </div>
 
 <hr/>
 <div align="center">
 Lv.23 CSE&nbsp;:three: <br/>
-:on:&nbsp;leave of absence
+:on:&nbsp;CSE21
 </div>
 <br/>
-<div align="center">
-  :email:&nbsp;lofilove@naver.com&nbsp;:email:
-</div>
 <br/>
 <div align="center">
   <a href="https://www.instagram.com/howdy9.16/" target="_blank"><img src="https://img.shields.io/badge/@howdy9.16-ff0069?style=for-the-badge&logo=instagram&logoColor=white"/></a>
