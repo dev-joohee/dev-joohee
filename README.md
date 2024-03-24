@@ -12,7 +12,6 @@ You finally found my github!<br/>
 
 <hr/>
 <div align="center">
-Lv.23 CSE&nbsp;:three: <br/>
 :on:&nbsp;CSE21
 </div>
 <br/>
